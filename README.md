@@ -4,3 +4,5 @@ mi raccomando per scaricarlo lo trovi a destra non ti perdere perché c'è molto
 # DONAMI QUI: PayPalle [https://paypal.me/slainx] (https://www.paypal.com/paypalme/slainx)
 
 ![qYrPBpX](https://github.com/asynchunk/SoCosaPensi/assets/71403262/63996ccc-c1f5-4dea-a55d-a86a80566757)
+
+se apri qualche issue non ti cago neanche se mi paghi
