@@ -1,3 +1,3 @@
-# SoCosaPensi
-Cazzo di cane
-mi raccomando per scaricarlo lo trovi a destra non ti perdere
+# TI leggo in Mente
+Non Ricordo che Java ho usato vai a vedere da solo nel src
+mi raccomando per scaricarlo lo trovi a destra non ti perdere perché c'è molto da vedere
