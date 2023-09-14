@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SoCosaPensi" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="asynchunk.github.io.SoCosaPensi" />
+    <module name="SoCosaPensi" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
